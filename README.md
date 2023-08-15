@@ -5,6 +5,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=gilsonfsdev&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> Estudo Análise e Desenvolvimento de Sistemas na UNIMAR.<br/> Construo sites dinâmicos, responsivos e modernos com as tecnologias mais atuais do mercado.</p>
+<p> Estudo Análise e Desenvolvimento de Sistemas na UNIMAR.<br/> Implemento sistemas dinâmicos, responsivos e modernos com as tecnologias mais atuais do mercado.</p>
 
 <hr>
