@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonfsdev&hide=html&layout=compact&theme=dracula)]">
+
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Olá, eu sou o Gilson! 
 ##### Desenvolvedor Front-End
